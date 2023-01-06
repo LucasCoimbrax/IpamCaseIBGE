@@ -7,7 +7,7 @@ import { getAllCitys } from "../../Store/fetchActions/fetchCitys";
 import CardCity from "./CardCity";
 
 import Bandeira from '../Bandeira/Bandeiras'
-import tamandua from '../../utils/Tamandua/TamanduaBandeira.png'
+import tamandua from '../../Utils/Tamandua/TamanduaBandeira.png'
 
 import {
   ContainerGeral,

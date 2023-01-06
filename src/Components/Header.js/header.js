@@ -1,7 +1,7 @@
 import React from "react";
 import { ContainerHeader, ContainerImage, ContainerTitle } from "./styled";
 
-import BandeiraDoBrasil from "../../utils/Bandeiras/BandeiraDoBrasil.png";
+import BandeiraDoBrasil from "../../Utils/Bandeiras/BandeiraDoBrasil.png";
 
 const Header = () => {
   return (
